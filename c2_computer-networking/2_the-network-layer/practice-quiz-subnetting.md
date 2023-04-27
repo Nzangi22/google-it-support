@@ -32,3 +32,16 @@ How many octets does a subnet mask have?
 * **4**
 
 > A subnet mask is the same length as an IP address.
+> ### Question 4 
+> Consider the following scenario:
+Your IP address is 192.168.8.34, and your subnet mask is 255.255.0.0. What part of the subnet mask represents the subnet ID?
+*  **The first two octets of the subnet mask, 255.255**
+* The last two octets of the subnet mask, 0.0
+* 192.168.0.254
+* 255.255.0.1
+* ### Question 5
+* How many possible host IDs do you always lose per network?
+* 4
+* 12
+* 8
+* **2**
